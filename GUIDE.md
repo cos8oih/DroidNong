@@ -1,6 +1,6 @@
 # Guide
 
-To install nongs on android you will need a file explorer, and a modified version of GD, which you can find [here](http://www.mediafire.com/file/t4wynsftd98zmju/nong-hack.apk/file). Of course, you also need the nongs, which must be MP3 files.
+To install nongs on android you will need a file explorer, and a modified version of GD, which you can find [here](https://www.mediafire.com/file/gdt427eyk1cp4tg/nong-hack-nobypass.apk/file). Of course, you also need the nongs, which must be MP3 files.
 
 Install the provided apk, then open the file explorer, and locate your nongs (perhaps under the `Download` folder?). When you're ready, you have to copy the nongs inside a specific folder, called, you wont believe it, `nong`. This folder must be created in the main folder of your local storage, that is, the very first directory your file explorer opens, which will most likely be the directory where the `Download` folder is. This main directory is usually referred as `/storage/emulated/0`, or by its symlink `/sdcard`.
 
